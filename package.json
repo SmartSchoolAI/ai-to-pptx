@@ -56,7 +56,7 @@
     "mammoth": "^1.6.0",
     "marked": "^15.0.6",
     "mousetrap": "^1.6.5",
-    "next": "^15.1.4",
+    "next": "15.1.11",
     "nprogress": "0.2.0",
     "officegen": "^0.6.5",
     "pako": "^2.1.0",
